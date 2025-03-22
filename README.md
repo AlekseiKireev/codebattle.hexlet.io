@@ -1,1 +1,1 @@
-# codebattle.hexlet.io
+https://codebattle.hexlet.io/#lobby
