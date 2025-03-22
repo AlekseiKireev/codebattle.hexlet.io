@@ -1,3 +1,3 @@
 https://codebattle.hexlet.io/#lobby
 
-`ctr + alt` + `move up/down`
+`ctr + alt + move up/down`
