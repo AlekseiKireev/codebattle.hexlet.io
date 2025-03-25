@@ -1,3 +1,5 @@
+https://codebattle.hexlet.io/tasks/19387543
+
 по сути можно ломать тесты, а не решать задачу: 
 
     #include <bits/stdc++.h>
